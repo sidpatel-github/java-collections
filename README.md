@@ -1,6 +1,6 @@
 # java-collections
 
-This project is designed specially to explore the knowledge of the very important feature of java that is collections
+This project is designed specially to explore the knowledge of the very important feature of java that is collections as it provides important interfaces and classes using which we can manage Objects more better way with code readability and performance improvement.
 
 This project is implemented in java using Gradle build tool.
 
@@ -15,4 +15,4 @@ This project is implemented in java using Gradle build tool.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
